@@ -1,6 +1,6 @@
 ## Messanger App
 Welcome to the messanger app!!This application allows users to send and receive messagees in real-time,offering a seamless communication experience.
-## feature
+## Feature
 -Real-time messaging
 -User-authentication
 -message notified to you
